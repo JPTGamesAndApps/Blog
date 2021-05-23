@@ -15,7 +15,6 @@ Windows File Explorer is an essential part of Windows operating system. Partial 
 
 This does not mean that Windows File Explorer has not evolved at all, it has! Microsoft just have not released a full replacement for Windows File Explorer. Microsoft has started to include some modern components in the classic Windows File Explorer. For example, search box shows suggestions in modern-ish user interface that is likely coming from XAML code.
 
-Search box result in Windows File Explorer
 ![image](https://user-images.githubusercontent.com/77933967/116176915-eb918600-a6e0-11eb-8e79-4801b750d56f.png)
 
 But, it still has classic user interface. It still uses ribbon interface which was probably first introduced in Microsoft Office 2007 or so. It’s still tightly coupled with Control panel — so much so that some of the folder options affect both Control Panel and Windows File Explorer. It still has old school context menu, and so forth.
