@@ -14,9 +14,8 @@ While Microsoft did introduce Settings app to replace Control Panel, it was many
 Windows File Explorer is an essential part of Windows operating system. Partial replacement of Windows File Explorer is not possible. And, compared to the Control Panel, most of the Windows users are likely to use it much more often. Not being able to update a wallpaper may not cause chaos, but failing to copy files and folders definitely will.
 
 This does not mean that Windows File Explorer has not evolved at all, it has! Microsoft just have not released a full replacement for Windows File Explorer. Microsoft has started to include some modern components in the classic Windows File Explorer. For example, search box shows suggestions in modern-ish user interface that is likely coming from XAML code.
-Search box result in Windows File Explorer
-Search box result in Windows File Explorer
 
+Search box result in Windows File Explorer
 ![image](https://user-images.githubusercontent.com/77933967/116176915-eb918600-a6e0-11eb-8e79-4801b750d56f.png)
 
 But, it still has classic user interface. It still uses ribbon interface which was probably first introduced in Microsoft Office 2007 or so. It’s still tightly coupled with Control panel — so much so that some of the folder options affect both Control Panel and Windows File Explorer. It still has old school context menu, and so forth.
